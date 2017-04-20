@@ -1,0 +1,89 @@
+/*Nathan Alexander
+  ITS 362
+  Week 2 Lab 2
+  CSS page.
+*/
+
+body {
+    text-align: center;
+    background-color: #D3D7DA;
+}
+
+table {
+    background-color: #D3D7DA;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing:2px;
+    border-color: #D3D7DA;
+
+}
+
+
+th {
+    padding: 15px;
+    text-align: center;
+    background-color: #889DAE;
+    border-sp: 20px;
+}
+
+
+.TableGroupColor{
+   background-color: gray;
+}
+
+.TableGroupRight{
+   background-color: gray;
+    text-align: right;
+}
+
+.TableGroupLeft{
+   background-color: gray;
+    text-align: left;
+}
+
+.NoGroup2{
+   background-color: #D3D7DA;
+  
+}
+
+.FinalGradeSpace{
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+.NoGroup{
+   background-color: #D3D7DA;
+  
+}
+
+td {
+    font-weight: "bold";
+    padding: 15px;
+    text-align: left;
+}
+
+input {
+    text-align: center;
+    width: 50px;
+}
+
+button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    font-size: 16px;
+}
+.button2 {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 15px 50px;
+    text-align: center;
+    font-size: 16px;
+    width: auto;
+}
